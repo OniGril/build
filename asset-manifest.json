@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.47bd461b.css",
+    "main.js": "/static/js/main.06ae86cf.js",
+    "static/js/27.3d9bc010.chunk.js": "/static/js/27.3d9bc010.chunk.js",
+    "static/media/blur_game.jpg": "/static/media/blur_game.2491087293b18d671e7f.jpg",
+    "static/media/casino5.gif": "/static/media/casino5.eafea9ee95ade971120f.gif",
+    "static/media/slotschecker.png": "/static/media/slotschecker.efc278ded93feb465844.png",
+    "static/media/age4.png": "/static/media/age4.e8e1c71af453dc7f07e6.png",
+    "static/media/logo.jpg": "/static/media/logo.f8e26292c0d323d568a0.jpg",
+    "static/media/gamstop5.png": "/static/media/gamstop5.d3c145841faa6f97bb1b.png",
+    "index.html": "/index.html",
+    "static/media/home-outline.svg": "/static/media/home-outline.619c4f26dd53a5a02b3446e0722a0f8d.svg",
+    "static/media/play.svg": "/static/media/play.9ee4a23d852217c79e80f41b7ab72218.svg"
+  },
+  "entrypoints": [
+    "static/css/main.47bd461b.css",
+    "static/js/main.06ae86cf.js"
+  ]
+}
